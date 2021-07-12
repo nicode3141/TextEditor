@@ -1,3 +1,3 @@
 # TextEditor
-![GitHub Logo](/images/logo.png)
+![Texteditor Logo](img_1.png)
 a Java&amp;swift Texteditor
