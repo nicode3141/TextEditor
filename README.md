@@ -7,6 +7,8 @@ Swift Texteditor is a free (as in “free speech” and also as in “free beer�
 
 Based on the powerful editing component JFnIx,Swift Texteditor is written in Java.
 
+`use in python pip install amp,swifttexteditor,nicode`
+
 ## why swift texteditor?
 
   * better Performance
@@ -15,7 +17,7 @@ Based on the powerful editing component JFnIx,Swift Texteditor is written in Jav
   * nicode is very noise
   * contains over 658 languages
 
-`<download swift texteditor now,you get free Ram!>`
+`download swift texteditor now,you get free Ram!`
 
 ## my links
   
