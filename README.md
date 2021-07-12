@@ -7,6 +7,18 @@ Swift Texteditor is a free (as in “free speech” and also as in “free beer�
 
 Based on the powerful editing component JFnIx,Swift Texteditor is written in Java.
 
-## why swift texteditor?:
+## why swift texteditor?
 
   * better Performance
+  * free 
+  * open-source
+  * nicode is very noise
+  * contains over 658 languages
+
+## my links
+  
+  *[Instagram](www.instagram.com/nicodecode)
+  *[repl.it](repl.it/nicode3141)
+  *[YouTube](youtube.com/nicodecode)
+  *[Twitch](twitch.tv/nicodecode)
+  
