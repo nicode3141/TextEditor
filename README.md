@@ -17,8 +17,7 @@ Based on the powerful editing component JFnIx,Swift Texteditor is written in Jav
 
 ## my links
   
-  *[Instagram](www.instagram.com/nicodecode)
-  *[repl.it](repl.it/nicode3141)
-  *[YouTube](youtube.com/nicodecode)
-  *[Twitch](twitch.tv/nicodecode)
-  
+  * [Instagram](www.instagram.com/nicodecode)
+  * [repl.it](repl.it/nicode3141)
+  * [YouTube](youtube.com/nicodecode)
+  * [Twitch](twitch.tv/nicodecode)
