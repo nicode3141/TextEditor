@@ -15,6 +15,8 @@ Based on the powerful editing component JFnIx,Swift Texteditor is written in Jav
   * nicode is very noise
   * contains over 658 languages
 
+<download swift texteditor now,you get free Ram!>
+
 ## my links
   
   * [Instagram](www.instagram.com/nicodecode)
