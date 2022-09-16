@@ -20,7 +20,7 @@ import javax.swing.JFrame;
 
 
 /**
- * @author Nicolas Pfeifer (nicolas.d.pfeifer@gmail.com)
+ * created by Nicode3141
  */
 
 
