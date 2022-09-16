@@ -20,7 +20,8 @@ import javax.swing.JFrame;
 
 
 /**
- * Author: Nicode
+ * @author Nicode3141
+   created by nicodeGmbH
  */
 
 
