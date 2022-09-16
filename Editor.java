@@ -20,7 +20,7 @@ import javax.swing.JFrame;
 
 
 /**
- * @author Nicode3141
+ * created by Nicode3141
  */
 
 
